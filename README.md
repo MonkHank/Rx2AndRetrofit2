@@ -1,4 +1,4 @@
-#### 软件架构
+#### 项目介绍
     基于Retrofit+Rxjava+Okhttp封装的网络请求框架
     使用时请自行修改okhttp的公共参数（HeaderParam）
     1.HttpService请求的接口
